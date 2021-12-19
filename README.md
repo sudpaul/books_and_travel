@@ -1,1 +1,4 @@
-# books_and_travel
+#Personal books and travel project
+
+Books recommendation and reading list optimization
+Travel desination exploration
